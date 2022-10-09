@@ -44,3 +44,7 @@ p{
 .operator{
     background-color: rgb(132, 132, 130);
 }
+
+@media (max-width:786px){
+    
+}
